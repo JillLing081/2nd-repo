@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 时间消耗分析器
 
 这是一个用于分析Excel格式时间记录的工具，可以帮助您统计和分析时间消耗情况。
@@ -39,3 +40,6 @@ pip install -r requirements.txt
 - 控制台输出的类别时间汇总
 - 控制台输出的每日时间汇总
 - 时间分布饼图（保存为 `time_distribution.png`） 
+=======
+# 2nd-repo
+>>>>>>> 399c2a5c2b91515d8c7384762dea6dd07d4635da
